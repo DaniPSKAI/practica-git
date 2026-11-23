@@ -4,3 +4,4 @@ Este es un ejercicio de la asignatura Fundamentos de Programación para la Activ
 
 Este ejercicio completa la actividad 1.
 
+Dani Pacheco 23/11/26
